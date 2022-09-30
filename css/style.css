@@ -1,0 +1,62 @@
+body{
+    font-family:monospace;  
+    color : brown;
+    background-color :aliceblue;
+  }
+  h1{
+      color : green;
+      font-weight: bold;
+  }
+  p{
+      color:black
+  }
+  .judul1{
+    color:black;
+  }
+  .judul2{
+    color:black
+  }
+  #satu{
+    background-color:lightslategrey;
+    height : 100px;
+    padding : 20px;
+    margin-top:100px;
+  }
+
+  #dua{
+    background-color: aqua;
+    width: 50%;
+    padding: 10px;
+  }
+
+  #background{
+    background-color: black;
+    font-family: impact;
+  }
+
+  .text-background{
+    color:green;
+  }
+
+  .text-p{
+    color:white;
+  }
+
+  .margin{
+    background-color: blue;
+    margin: 50px;
+  }
+
+  .padding{
+    background-color: black;
+    padding: 20px
+  }
+
+  .padding h1{
+    color:white;
+  }
+
+  .padding p{
+    color:midnightblue;
+    font-family:arial;
+  }
